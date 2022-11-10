@@ -1,4 +1,4 @@
-# Step by step VGG16 implementation in Keras
+# VGG16 | CNN Model
 
 <div align="justify">VGG is a convolutional neural network model proposed by K. Simonyan and A. Zisserman from the University of Oxford in the paper <a href="https://arxiv.org/abs/1409.1556" target="_top">“Very Deep Convolutional Networks for Large-Scale Image Recognition”</a>. It is a convolution neural net (CNN ) architecture which was used to win ILSVR(Imagenet) competition in 2014.</div>
 
