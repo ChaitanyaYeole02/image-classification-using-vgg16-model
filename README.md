@@ -16,7 +16,7 @@
 ![Alt Text](https://media.giphy.com/media/i4NjAwytgIRDW/giphy.gif)
 
 ### Pooling Layer
-<div align="justify">Pooling layers section would reduce the number of parameters when the images are too large. 
+<div align="justify">A pooling layer is usually incorporated between two successive convolutional layers. The pooling layer reduces the number of parameters and computation by down-sampling the representation.
 
 * Max Pooling – Largest element from the rectified feature map
 
