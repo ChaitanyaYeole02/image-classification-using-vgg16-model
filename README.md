@@ -9,3 +9,7 @@
 <div align="justify">It follows this arrangement of convolution and max pool layers consistently throughout the whole architecture. In the end it has 2 FC(fully connected layers) followed by a softmax for output. The 16 in VGG16 refers to it has 16 layers that have weights. This network is a pretty large network and it has about 138 million (approx) parameters.</div> <br>
 
 ![vgg16 layers](https://miro.medium.com/max/1400/1*UCGA58A2Ssjf74Z0Oh0_eQ.png)
+
+## Convolution Layer
+<div align="justify">Convolution is the first layer to extract features from an input image. It’s basically a mathematical operation that takes two inputs such as Image matrix and a filter or kernel. Convolution of an image with different filters can perform operations such as edge detection, blur and sharpen by applying filters.</div> <br>
+![Alt Text](https://media.giphy.com/media/i4NjAwytgIRDW/giphy.gif)
