@@ -1,7 +1,7 @@
 # Step by step VGG16 implementation in Keras
 
-<div style="text-align: justify"> VGG is a convolutional neural network model proposed by K. Simonyan and A. Zisserman from the University of Oxford in the paper [“Very Deep Convolutional Networks for Large-Scale Image Recognition”](https://arxiv.org/abs/1409.1556). It is a convolution neural net (CNN ) architecture which was used to win ILSVR(Imagenet) competition in 2014.\
-Most unique thing about VGG16 is that instead of having a large number of hyper-parameter they focused on having convolution layers of 3x3 filter with a stride 1 and always used same padding and maxpool layer of 2x2 filter of stride 2. </div>
+VGG is a convolutional neural network model proposed by K. Simonyan and A. Zisserman from the University of Oxford in the paper [“Very Deep Convolutional Networks for Large-Scale Image Recognition”](https://arxiv.org/abs/1409.1556). It is a convolution neural net (CNN ) architecture which was used to win ILSVR(Imagenet) competition in 2014.\
+Most unique thing about VGG16 is that instead of having a large number of hyper-parameter they focused on having convolution layers of 3x3 filter with a stride 1 and always used same padding and maxpool layer of 2x2 filter of stride 2.
 
 ![vgg16 architecture](https://user-images.githubusercontent.com/35737777/69682136-5bdd4780-10a8-11ea-9079-50283f5451df.png)
 
