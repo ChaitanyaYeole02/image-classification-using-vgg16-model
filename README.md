@@ -28,5 +28,5 @@
 
 ![pooling layer](https://production-media.paperswithcode.com/methods/MaxpoolSample2.png)
 
-#### Limitations Of VGG 16:
+### Limitations Of VGG 16:
 <div align="justify">It is very slow to train (the original VGG model was trained on Nvidia Titan GPU for 2-3 weeks). The size of VGG-16 trained imageNet weights is 528 MB. So, it takes quite a lot of disk space and bandwidth which makes it inefficient.138 million parameters lead to exploding gradients problem.</div>
