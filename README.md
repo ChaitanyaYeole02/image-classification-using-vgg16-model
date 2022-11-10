@@ -10,7 +10,18 @@
 
 ![vgg16 layers](https://miro.medium.com/max/1400/1*UCGA58A2Ssjf74Z0Oh0_eQ.png)
 
-## Convolution Layer
+### Convolution Layer
 <div align="justify">Convolution is the first layer to extract features from an input image. It’s basically a mathematical operation that takes two inputs such as Image matrix and a filter or kernel. Convolution of an image with different filters can perform operations such as edge detection, blur and sharpen by applying filters.</div> <br>
 
 ![Alt Text](https://media.giphy.com/media/i4NjAwytgIRDW/giphy.gif)
+
+### Pooling Layer
+<div align="justify">Pooling layers section would reduce the number of parameters when the images are too large. 
+
+* Max Pooling – Largest element from the rectified feature map
+
+* Average Pooling – Average of all the elements in the feature map
+
+* Sum Pooling – Sum of all elements in the feature map 
+
+</div> <br>
